@@ -137,6 +137,6 @@ async def kick(ctx, member: discord.Member, *, reason=None):
     else:
       await ctx.send(f'{member} ne peux pas être kick du serveur.')
 
-token = "MTAzNDQ3NDM5Njc2NjcxMTg4OQ.GnOb7H.YaCB4O04Y16sJ0ZqmXPkb8J3bCre1H3OUImi58" 
+token = "Your token"
 bot.run(token)
 client.run(token)
