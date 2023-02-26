@@ -1,6 +1,6 @@
 # INFOS 
 
-this bot is create by 0xMasked#1237 for nuke or raid discord servers,
+this bot is create by 1034074588432310272 for nuke or raid discord servers,
 this is for ethical education so I'm not responsible.
 
 more details :
